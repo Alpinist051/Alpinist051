@@ -247,4 +247,252 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="100">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="50" alt="JavaScript" />
+        <br>JavaScript
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="50" alt="HTML5" />
+        <br>HTML5
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.w3.org/TR/CSS/">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="50" alt="CSS3" />
+        <br>CSS3
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://getbootstrap.com/">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="50" alt="Bootstrap" />
+        <br>Bootstrap
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://tailwindcss.com/">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="50" alt="Tailwind CSS" />
+        <br>Tailwind CSS
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://sass-lang.com/">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="50" alt="Sass" />
+        <br>Sass
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://jquery.com/">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="50" alt="jQuery" />
+        <br>jQuery
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://graphql.org/">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="50" alt="GraphQL" />
+        <br>GraphQL
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://firebase.google.com/">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="50" alt="Firebase" />
+        <br>Firebase
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://azure.microsoft.com/">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" width="50" alt="Azure" />
+        <br>Azure
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <a href="https://www.heroku.com/">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="50" alt="Heroku" />
+        <br>Heroku
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.digitalocean.com/">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="50" alt="Digital Ocean" />
+        <br>Digital Ocean
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.jenkins.io/">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jenkins-colored.svg" width="50" alt="Jenkins" />
+        <br>Jenkins
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.ansible.com/">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ansible-colored.svg" width="50" alt="Ansible" />
+        <br>Ansible
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.terraform.io/">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/terraform-colored.svg" width="50" alt="Terraform" />
+        <br>Terraform
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.elastic.co/">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/elasticsearch-colored.svg" width="50" alt="Elasticsearch" />
+        <br>Elasticsearch
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://redis.io/">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redis-colored.svg" width="50" alt="Redis" />
+        <br>Redis
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://kafka.apache.org/">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kafka-colored.svg" width="50" alt="Kafka" />
+        <br>Kafka
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://go.dev/">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="50" alt="Go" />
+        <br>Go
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.ruby-lang.org/en/">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="50" alt="Ruby" />
+        <br>Ruby
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <a href="https://rubyonrails.org/">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rails-colored.svg" width="50" alt="Rails" />
+        <br>Rails
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://dotnet.microsoft.com/">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="50" alt=".NET" />
+        <br>.NET
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="50" alt="C#" />
+        <br>C#
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.swift.org/">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="50" alt="Swift" />
+        <br>Swift
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://dart.dev/">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="50" alt="Dart" />
+        <br>Dart
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://flutter.dev/">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="50" alt="Flutter" />
+        <br>Flutter
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://reactnative.dev/">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="50" alt="React Native" />
+        <br>React Native
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://electronjs.org/">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/electron-colored.svg" width="50" alt="Electron" />
+        <br>Electron
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://babeljs.io/">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored-dark.svg" width="50" alt="Babel" />
+        <br>Babel
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://webpack.js.org/">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="50" alt="Webpack" />
+        <br>Webpack
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <a href="https://vitejs.dev/">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="50" alt="Vite" />
+        <br>Vite
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.tensorflow.org/">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="50" alt="TensorFlow" />
+        <br>TensorFlow
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://pytorch.org/">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="50" alt="PyTorch" />
+        <br>PyTorch
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.adobe.com/products/illustrator.html">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" width="50" alt="Illustrator" />
+        <br>Illustrator
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.adobe.com/uk/products/xd.html">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored-dark.svg" width="50" alt="XD" />
+        <br>XD
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.sketch.com/">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="50" alt="Sketch" />
+        <br>Sketch
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://ethereum.org/en/">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="50" alt="Ethereum" />
+        <br>Ethereum
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://soliditylang.org/">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solidity-colored.svg" width="50" alt="Solidity" />
+        <br>Solidity
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://bitcoin.org/">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bitcoin-colored.svg" width="50" alt="Bitcoin" />
+        <br>Bitcoin
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://polygon.technology/">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/polygon-colored.svg" width="50" alt="Polygon" />
+        <br>Polygon
+      </a>
+    </td>
+  </tr>
 </table>
